@@ -1,0 +1,7 @@
+.boite{
+    border-style: solid;
+    border-width: 2px;
+    width: fit-content;
+    height: fit-content;
+    margin-bottom: 3px;
+}
